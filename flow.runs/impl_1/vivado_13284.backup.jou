@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Dec 11 14:56:41 2022
+# Process ID: 13284
+# Current directory: G:/VerilogHDL/flow/flow.runs/impl_1
+# Command line: vivado.exe -log source_WallterfallLight.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source source_WallterfallLight.tcl -notrace
+# Log file: G:/VerilogHDL/flow/flow.runs/impl_1/source_WallterfallLight.vdi
+# Journal file: G:/VerilogHDL/flow/flow.runs/impl_1\vivado.jou
+# Running On: LAPTOP-DFFR50AK, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 4, Host memory: 17041 MB
+#-----------------------------------------------------------
+source source_WallterfallLight.tcl -notrace
